@@ -1,0 +1,19 @@
+{
+  "name": "desafio-node-api",
+  "version": "1.0.0",
+  "description": "\"Desafio Final curso Full Stack - Campinho Digital\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeanDevLima/Desafio-Node-API.git"
+  },
+  "author": "LeanDevLima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeanDevLima/Desafio-Node-API/issues"
+  },
+  "homepage": "https://github.com/LeanDevLima/Desafio-Node-API#readme"
+}
