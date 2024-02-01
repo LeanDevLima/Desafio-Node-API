@@ -1,0 +1,21 @@
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+
+# Dependências instaladas localmente
+/node_modules
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de configuração específicos do usuário
+.vscode/
+.idea/
+
+# Arquivos de build
+/build
+
+# Arquivos de cache
+.cache
